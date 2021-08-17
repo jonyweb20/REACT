@@ -4,7 +4,8 @@
   "description": "текстовый пакет",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Shutov Evgeniy",
   "license": "ISC",
